@@ -1,20 +1,25 @@
-<div align="center">
-<img width="1200" height="475" alt="GHBanner" src="https://ai.google.dev/static/site-assets/images/share-ais-513315318.png" />
-</div>
+# 🎮 Tic-Tac-Toe
 
-# Run and deploy your AI Studio app
+A modern Tic-Tac-Toe game featuring an unbeatable AI powered by the Minimax algorithm, local multiplayer, smooth animations, immersive sound effects, and beautiful light & dark themes.
 
-This contains everything you need to run your app locally.
+## ✨ Features
 
-View your app in AI Studio: https://ai.studio/apps/f774e795-f69d-477a-a37a-660285d5ddce
+- 🤖 Unbeatable AI (Minimax Algorithm)
+- 👥 Local Two-Player Mode
+- 🌙 Light & Dark Theme
+- 🔊 Interactive Sound Effects
+- 🏆 Winner Detection
+- 🎉 Winner Popup
+- ✨ Winning Cell Highlight
+- 📊 Scoreboard
+- 🔄 Restart Game
+- 📱 Fully Responsive Design
 
-## Run Locally
+## 🚀 Tech Stack
 
-**Prerequisites:**  Node.js
+- React
+- Vite
+- JavaScript
+- CSS
 
-
-1. Install dependencies:
-   `npm install`
-2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
-3. Run the app:
-   `npm run dev`
+## Link -:
